@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TokenApp</string>
+    <string name="sign_in">Авторизация</string>
+    <string name="registration">Регистрация</string>
+    <string name="name_registation_number">Имя</string>
+    <string name="telephone_number_registation">Введите номер</string>
+    <string name="kg_number_code">+996</string>
+    <string name="registration_number_example">***-***-***</string>
+    <string name="next">Регистрировать</string>
+    <string name="sms_code">Смс код</string>
+    <string name="type_code">Введите код</string>
+    <string name="Potverdit">Подтвердить</string>
+    <string name="if_message_null">"Нажмите есл и сообщение не пришло "</string>
+    <string name="send_again">Отправить обратно</string>
+</resources>

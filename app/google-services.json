@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761336250940",
+    "project_id": "neocafe-55812",
+    "storage_bucket": "neocafe-55812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761336250940:android:f1537dd8c5c3db792e7939",
+        "android_client_info": {
+          "package_name": "com.example.tokenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761336250940-t4058brvudnovcug1o8fbg08ascafsl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJLsVXHiDGoX_oUWc3Xqbat1osuCwGb4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761336250940-t4058brvudnovcug1o8fbg08ascafsl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
